@@ -11,6 +11,12 @@
             "email": "jarrett.croll@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/snoxs/foursquare-api-client.git"
+        }
+    ],
     "require": {
         "jcroll/foursquare-api-client": "~1",
         "symfony/framework-bundle": "~2.1"
